@@ -48,6 +48,7 @@ nav a {
 .left-column p {
     color: #e5e7eb;
     font-size: 18px;
+    margin-top: 0px;
 }
 .left-column button {
     flex: 0 1 auto;
