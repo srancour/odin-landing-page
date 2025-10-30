@@ -173,6 +173,14 @@ h2 {
     border-radius: 8px;
     background-color: #3882f6;
     color: #f9faf8;
-    padding: 8px 24px;
-    font-size: 16px;
+    padding: 8px 32px;
+    font-size: 18px;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 32px;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    font-size: 18px;
 }
